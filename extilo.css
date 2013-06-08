@@ -1,0 +1,17 @@
+.color{
+	background: black;
+	box-shadow: 10px 10px 10px green;
+	border-radius: 5px 5px 5px 5px;
+	height: 250px;
+	width: 900px; 
+}
+
+p{
+	color:white;
+	font-size: 100px;
+	font-family: verdana,Arial ;
+}
+
+
+
+
